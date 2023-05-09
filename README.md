@@ -1,10 +1,5 @@
 ## Hi I'm Nguyễn Quang Tú
 
-<div align="center">
-    <img width="1200" src="https://i.imgur.com/g7Rn53v.gif">
-</div>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012176165855) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-t%C3%BA-nguy%E1%BB%85n-882025233/) 
 
